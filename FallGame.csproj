@@ -80,6 +80,7 @@
     <Compile Include="Assets\_Skrypty\NiszczeniePunktow.cs" />
     <Compile Include="Assets\_Skrypty\RuchPlatformy.cs" />
     <Compile Include="Assets\_Skrypty\Spawn.cs" />
+    <Compile Include="Assets\_Skrypty\TestSpawn.cs" />
     <Compile Include="Assets\_Skrypty\ZakonczenieGry.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
